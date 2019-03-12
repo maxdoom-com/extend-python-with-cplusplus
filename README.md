@@ -7,5 +7,4 @@ A series of examples/tutorials on how to create python extensions in c++.
 python3 -m venv env
 ```
 
-3. Head over to the first lesson.
-
+3. Head over to the [first lesson](/tree/master/lesson-001).
