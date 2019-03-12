@@ -1,6 +1,5 @@
 from distutils.core import setup, Extension
 from glob import glob
-import subprocess
 
 lesson1 = Extension('lesson1',
     language            = 'c++',
